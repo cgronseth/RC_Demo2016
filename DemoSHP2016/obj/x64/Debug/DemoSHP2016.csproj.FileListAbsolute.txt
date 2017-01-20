@@ -1,0 +1,6 @@
+C:\AAChristo\VS2015\DemoSHP2016\DemoSHP2016\bin\x64\Debug\DemoSHP2016.pdb
+C:\AAChristo\VS2015\DemoSHP2016\DemoSHP2016\obj\x64\Debug\DemoSHP2016.dll
+C:\AAChristo\VS2015\DemoSHP2016\DemoSHP2016\obj\x64\Debug\DemoSHP2016.pdb
+C:\AAChristo\VS2015\RC_Demo2016\DemoSHP2016\bin\x64\Debug\DemoSHP2016.pdb
+C:\AAChristo\VS2015\RC_Demo2016\DemoSHP2016\obj\x64\Debug\DemoSHP2016.dll
+C:\AAChristo\VS2015\RC_Demo2016\DemoSHP2016\obj\x64\Debug\DemoSHP2016.pdb
